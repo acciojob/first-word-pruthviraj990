@@ -1,1 +1,21 @@
-/*  your css code here. If applicable */
+body {
+  font-family: Arial, sans-serif;
+  padding: 30px;
+}
+
+input, button {
+  padding: 10px;
+  margin-top: 10px;
+  font-size: 16px;
+  width: 300px;
+}
+
+button {
+  margin-left: 10px;
+}
+
+#output {
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 18px;
+}
